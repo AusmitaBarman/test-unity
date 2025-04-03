@@ -41,11 +41,7 @@ The **Cherry Blossom VR Experience** is an interactive virtual reality journey b
 
 ## Credits:
 - **Unity Asset Store**: Assets for trees, flowers, and environmental elements.
-- **Sound Design**: Ambient soundtracks and nature sounds sourced from royalty-free libraries.
-- **Hand Tracking**: Patented hand-tracking technology for seamless interaction.
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing:
 Feel free to fork this repository, submit issues, or create pull requests to contribute to the development of the **Cherry Blossom VR Experience**.
